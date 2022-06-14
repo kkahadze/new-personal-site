@@ -1,4 +1,4 @@
-This website is hosted at [konstantinekahadze.me](https://www.konstantinekahadze.me/).
+This website is hosted at [konstantinekahadze.me](https://konstantinekahadze.me/).
 
 Based on this [YouTube tutorial](https://www.youtube.com/watch?v=bSMZgXzC9AA).
 
