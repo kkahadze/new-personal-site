@@ -88,7 +88,7 @@ const Home = () => (
             <Link>Iribe Initative for Inclusion and Diversity</Link>
           </NextLink> { }
           while also working on { }
-          <NextLink href="https://www.ygithub.com/kkahadze" passHref>
+          <NextLink href="https://www.github.com/kkahadze" passHref>
             <Link target="_blank">open source work and personal projects</Link>
           </NextLink>.
         </Paragraph>
