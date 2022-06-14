@@ -4,7 +4,7 @@ import {
   Container,
   Heading,
   Box,
-  SimpleGrid,
+  // SimpleGrid,
   Button,
   List,
   ListItem,

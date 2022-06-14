@@ -1,4 +1,4 @@
-import { Container, Heading, SimpleGrid, Divider } from '@chakra-ui/react'
+import { Container, Heading, SimpleGrid } from '@chakra-ui/react' // Removed Divider
 import Layout from '../components/layouts/article'
 import Section from '../components/section'
 import { WorkGridItem } from '../components/grid-item'
@@ -29,7 +29,7 @@ const Works = () => (
           <WorkGridItem id="inkdrop" title="Joker AI" thumbnail={p1}>
           Using Python I implemented the card game of Joker, then utilizied data from
           AI self play in order to create a more intelligent Joker AI for the game
-          which can make decisions based on the game's state based on training data,
+          which can make decisions based on the game&apos;s state based on training data,
           using the K-Nearest Neighbors Classifier.
           </WorkGridItem>
         </Section>
